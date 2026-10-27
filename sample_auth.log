@@ -1,0 +1,15 @@
+Oct 27 09:01:12 server sshd[1201]: Accepted password for ibrahim from 192.168.1.20 port 51522 ssh2
+Oct 27 09:15:03 server sshd[1210]: Failed password for ibrahim from 192.168.1.20 port 51530 ssh2
+Oct 27 09:15:09 server sshd[1210]: Accepted password for ibrahim from 192.168.1.20 port 51530 ssh2
+Oct 27 10:02:01 server sshd[1300]: Failed password for root from 203.0.113.45 port 40011 ssh2
+Oct 27 10:02:02 server sshd[1301]: Failed password for root from 203.0.113.45 port 40012 ssh2
+Oct 27 10:02:03 server sshd[1302]: Failed password for admin from 203.0.113.45 port 40013 ssh2
+Oct 27 10:02:04 server sshd[1303]: Failed password for invalid user test from 203.0.113.45 port 40014 ssh2
+Oct 27 10:02:05 server sshd[1304]: Failed password for invalid user oracle from 203.0.113.45 port 40015 ssh2
+Oct 27 10:02:06 server sshd[1305]: Failed password for root from 203.0.113.45 port 40016 ssh2
+Oct 27 11:30:10 server sshd[1400]: Failed password for admin from 198.51.100.7 port 50001 ssh2
+Oct 27 11:30:12 server sshd[1401]: Failed password for admin from 198.51.100.7 port 50002 ssh2
+Oct 27 11:30:14 server sshd[1402]: Failed password for admin from 198.51.100.7 port 50003 ssh2
+Oct 27 11:30:16 server sshd[1403]: Failed password for admin from 198.51.100.7 port 50004 ssh2
+Oct 27 11:30:18 server sshd[1404]: Failed password for admin from 198.51.100.7 port 50005 ssh2
+Oct 27 11:30:20 server sshd[1405]: Accepted password for admin from 198.51.100.7 port 50006 ssh2
